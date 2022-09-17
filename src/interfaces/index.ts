@@ -1,3 +1,5 @@
-import Product from './product.interface';
+import IProduct from './product.interface';
+import IUsers from './users.interface';
+import IToken from './token.interface';
 
-export { Product };
+export { IProduct, IUsers, IToken };

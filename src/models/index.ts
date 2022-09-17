@@ -1,4 +1,5 @@
-import ProductModel from './product.model';
 import connection from './connection';
+import ProductModel from './product.model';
+import UsersModel from './users.model';
 
-export { ProductModel, connection };
+export { connection, ProductModel, UsersModel };
